@@ -1,1 +1,2 @@
 # wave-cafe
+Automated deployments

@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: wave-cafe
-        image: salamituns/wave-cafe:e5b9f1c
+        image: salamituns/wave-cafe:208d9ab
         ports:
         - containerPort: 80 
